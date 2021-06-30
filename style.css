@@ -41,3 +41,38 @@ header h5, p{
     width: 400px;
     align-items: center;
 }
+
+.TitleProductos{
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: #ff5ddc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ProductosContainer{
+    display: flex;
+    justify-content: center;
+}
+.Productos{
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: #ff5ddc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ProductosSecond{
+    display: inline-block;
+    width: 15%;
+    position: relative;
+    margin: 10px 20px;
+    font-size: 25px;
+    text-align: center;
+}
+.ProductosSecond img{
+    display: inline-block;
+    width: 30%;
+    position: relative;
+    margin: 10px 20px;
+    width: 150px;
+    text-align: center;
+}
