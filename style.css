@@ -76,3 +76,17 @@ header h5, p{
     width: 150px;
     text-align: center;
 }
+.Recomendaciones h3{
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: #d7dfd7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Recomendaciones nav a{
+    text-decoration: none;
+    margin: auto;
+    padding: 60px;
+    font-size: 20px;
+    color: #ff5ddc;
+}
