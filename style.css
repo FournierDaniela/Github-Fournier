@@ -18,10 +18,9 @@ header h5, p{
     display: flex;
     justify-content: center;
 }
-.Jankunas h2{
+.Jankunas a{
+    text-decoration: none;
     font-size: 30px;
-    text-align: center;
-    padding: 25px;
     color: #ff5ddc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -30,10 +29,9 @@ header h5, p{
     align-items: center;
     justify-content: center;
 }
-.Barrionuevo h2{
+.Barrionuevo a{
+    text-decoration: none;
     font-size: 30px;
-    text-align: center;
-    padding: 25px;
     color: #ff5ddc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
