@@ -88,3 +88,26 @@ header h5, p{
     font-size: 20px;
     color: #ff5ddc;
 }
+/*barrionuevo.html*/
+.BiografiaContainer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fd92e6;
+}
+.BiografiaContainer p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fd92e6;
+    font-size: 20px;
+}
+.LogrosContainer{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fd92e6;
+}
+.LogrosSecond{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fd92e6;
+    font-size: 20px;
+}
