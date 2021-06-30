@@ -1,0 +1,43 @@
+body{
+    background-color: #737373;
+}
+
+header h1{
+font-size: 30px;
+text-align: center;
+color: #ff5ddc;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header h5, p{
+    font-size: 20px;
+    text-align: center;
+    color: #db66c6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Leonas{
+    display: flex;
+    justify-content: center;
+}
+.Jankunas h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: #ff5ddc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Jankunas img{
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}
+.Barrionuevo h2{
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: #ff5ddc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Barrionuevo img{
+    width: 400px;
+    align-items: center;
+}
